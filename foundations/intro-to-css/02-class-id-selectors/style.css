@@ -1,0 +1,21 @@
+ .number{
+    color: #000;
+    background-color: #f39ba6;
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+#n2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+ .number.cooler{
+    font-size: 24px;
+ }
+
+ #n4 {
+    color: #000;
+    font-weight: bold;
+    font-size:24px;
+    background-color: greenyellow;
+ }
